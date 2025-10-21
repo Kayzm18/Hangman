@@ -1,3 +1,6 @@
+![Hangman Banner](./assets/banner.png)
+<!-- Replace the path above with your actual banner image path or a hosted image link -->
+
 # 🎮 Hangman – C++ Edition
 
 A fun command-line version of the classic **Hangman** game, written in C++ using functions for clean structure and easy modification.
